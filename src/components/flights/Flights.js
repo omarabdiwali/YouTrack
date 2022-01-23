@@ -37,7 +37,6 @@ export default function Flights({ from, to }) {
         let terminalD = fl.departure.terminal;
         let gateA = fl.arrival.gate;
         let terminalA = fl.arrival.terminal;
-
         return (
           <ShowFlights key={i} air={air} fromAir={fromAir} toAir={toAir} num={num} stat={stat} gateD={gateD} gateA={gateA} terminalD={terminalD} terminalA={terminalA} timeLeft={timeLeft} timeLand={timeLand} />
         )
