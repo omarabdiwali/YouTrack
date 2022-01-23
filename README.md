@@ -9,6 +9,7 @@
 #### Check out <a href="https://github.com/omarabdiwali/YouTrack" target="_blank">the code on Github</a>
 
 <br>
+
 ## What YouTrack is all about
 
 YouTrack is an online website created for the purpose of tracking flights. Flying is one of the most common forms of travel and it comes as no surprise that roughly 115,000 commercial flights are operated worldwide every single day. Trying to keep up with one flight amongst hundreds of thousands of flights can be incredibly challenging, which is why we came up with an idea for a website that will serve as a guide for those wanting to keep up with active, previous, and future flights. Whether it be checking up on a loved one on a flight or tracking your own, YouTrack is the absolute best option for your flight tracking needs. 
@@ -38,6 +39,7 @@ We came up with the idea of building a flight-tracking website spontaneously and
 * Familiarizing ourselves with Figma to come up with a pleasing UI prototype design
 * Executing YouTrack within the time frame of the hackathon
 <br>
+
 ## Accomplishments that we are proud of 
 
 * Coming up with a great idea and then executing that idea to the best of our abilities
